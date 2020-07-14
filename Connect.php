@@ -1,6 +1,6 @@
 <?php
 DEFINE ('db_user','ranjeet');
-DEFINE ('db_password','bart29');
+DEFINE ('db_password','');
 DEFINE ('db_host','localhost');
 DEFINE ('db_name','students');
 
